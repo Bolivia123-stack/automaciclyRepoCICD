@@ -1,0 +1,2 @@
+#!/bin/bash
+cppcheck <path_to_project> --quiet --error-exitcode=1
